@@ -1,0 +1,32 @@
+#p1{
+    color: black;
+    text-align: justify;
+
+}
+
+div {
+    height: 100px;
+    width: 500px;
+}
+
+.u1{
+    text-decoration: underline;
+}
+
+#hl1{
+    background: orange;
+}
+
+.p2{
+    color: red;
+    font-weight: bold;
+}
+
+#index{
+    color: red;
+    font-family: Georgia;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold
+}
+
